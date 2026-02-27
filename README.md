@@ -1,7 +1,6 @@
 # DevTech Portfolio &mdash; Lead Web Developer Portfolio
 
 <div align="center">
-  <img src="image/laptop_mockup.png" alt="DevTech Showcase" width="600" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
   <p align="center">
     <strong>A high-end, premium bento-grid portfolio designed for modern web developers.</strong>
   </p>
